@@ -1,0 +1,2 @@
+QuantLib==1.33
+tables==3.9.2
