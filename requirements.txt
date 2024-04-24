@@ -1,2 +1,3 @@
 QuantLib==1.33
 tables==3.9.2
+polars==0.20.22
