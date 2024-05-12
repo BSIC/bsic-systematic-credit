@@ -1,2 +1,5 @@
 QuantLib==1.33
 polars==0.20.22
+mpl_bsic==1.4.0a3
+polars-ols==0.3.3
+scikit-misc==0.3.1
