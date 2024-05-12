@@ -20,7 +20,7 @@ The code is grouped in the following directories:
 * `src`
     * `preprocessing`: data gathering from *WRDS*, [*openbondassetpricing.com*](https://openbondassetpricing.com/), and *CRSP*, and Data Cleaning on the bond returns
     * `signals`: partitioning the bonds in buckets and 
-    evaluating the signals for our strategy: value, equity momentum, credit momentum, carry, and quality
+    evaluating the signals for our strategy: value, equity momentum, credit momentum, and carry.
     * `backtesting`: backtesting the strategy and displaying the results
 * `docs`: the manual from [*openbondassetpricing.com*](https://openbondassetpricing.com/) which explains the variables in the DataFrame
 
